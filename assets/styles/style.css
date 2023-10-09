@@ -4588,3 +4588,11 @@ form textarea {
 .rotate70 {
   transform: rotate(70deg);
 }
+
+/* 다희 custom */
+
+.stats-picture {
+  position: absolute;
+  width: 70%;
+
+}
